@@ -60,7 +60,7 @@ Core tests validate the acquisition against numerical integration, hidden-outcom
 
 ## Practical scope
 
-Recipe recommendations and historical observations are genuine software outputs. The system does not fabricate a film, generate a microscope image, or control equipment. Rate-only data does not establish uniformity, quality, yield or chamber safety. No Lam equipment, proprietary data or validation is involved. Exported settings require engineer/tool review before any physical use. The independent SEM Review project supplies the complementary image-based workflow; their datasets are not linked.
+Recipe recommendations and historical observations are genuine software outputs. The system does not fabricate a film, generate a microscope image, or control equipment. Rate-only data does not establish uniformity, quality, yield or chamber safety. Exported settings require engineer/tool review before any physical use. The independent SEM Review project supplies the complementary image-based workflow; their datasets are not linked.
 
 ## Data and license
 
