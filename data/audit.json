@@ -1,0 +1,43 @@
+{
+  "campaign": "Al 120 W",
+  "raw_rows": 601,
+  "valid_rows": 601,
+  "excluded_rows": 0,
+  "unique_recipes": 601,
+  "repeat_groups": 0,
+  "controls": [
+    "PRR (Hz)",
+    "PW (us)",
+    "pos. Delay (us)",
+    "pos. PW (us)",
+    "pos. Setpoint (V)"
+  ],
+  "bounds": [
+    [
+      500.0,
+      5000.0
+    ],
+    [
+      5.0,
+      100.0
+    ],
+    [
+      1.5,
+      40.0
+    ],
+    [
+      0.0,
+      40.0
+    ],
+    [
+      0.0,
+      100.0
+    ]
+  ],
+  "rate_unit": "\u00c5/s",
+  "conversion": "raw y1 \u00d7 1000 \u00d7 1.1684",
+  "source_sha256": "75b9eea6d784447c8bf1acdd05971d7feb3d522df2f91343b11f8e81a1e2481a",
+  "dataset_doi": "10.5281/zenodo.18495402",
+  "calibration_source": "Clean Datasets Used for Publication/Al - 120 W  - short PW/calibration.txt",
+  "scope": "Finite observed-recipe pool; timing checked, not hardware safety qualification"
+}

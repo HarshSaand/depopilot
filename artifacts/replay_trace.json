@@ -1,0 +1,58 @@
+[
+  {
+    "recipe_id": "AL120-0542",
+    "index": 542,
+    "campaign": "Al 120 W",
+    "settings": {
+      "PRR (Hz)": 4106.22659652,
+      "PW (us)": 6.32001362,
+      "pos. Delay (us)": 3.44091095,
+      "pos. PW (us)": 0.415603,
+      "pos. Setpoint (V)": 98.06735814
+    },
+    "target_A_s": 1,
+    "tolerance_A_s": 0.05,
+    "predicted_rate_A_s": 0.9967410503568579,
+    "predictive_interval_95_A_s": [
+      0.9059291823731145,
+      1.0875529183406014
+    ],
+    "probability_in_tolerance": 0.7182920153115174,
+    "expected_error_improvement_A_s": 0.004743325234241061,
+    "observations": 12,
+    "strategy": "bo",
+    "model": "fixed Mat\u00e9rn 5/2 GP v1",
+    "scope": "Historical finite-pool recommendation; not hardware qualified",
+    "source_doi": "10.5281/zenodo.18495402",
+    "recorded_rate_A_s": 0.6603741592720536,
+    "query": 1
+  },
+  {
+    "recipe_id": "AL120-0593",
+    "index": 593,
+    "campaign": "Al 120 W",
+    "settings": {
+      "PRR (Hz)": 598.46461378,
+      "PW (us)": 21.07570531,
+      "pos. Delay (us)": 38.26526919,
+      "pos. PW (us)": 36.48767021,
+      "pos. Setpoint (V)": 2.02988554
+    },
+    "target_A_s": 1,
+    "tolerance_A_s": 0.05,
+    "predicted_rate_A_s": 1.0376426266579342,
+    "predictive_interval_95_A_s": [
+      0.8682532785704747,
+      1.2070319747453937
+    ],
+    "probability_in_tolerance": 0.40158475294416884,
+    "expected_error_improvement_A_s": 0.0023568537351169906,
+    "observations": 13,
+    "strategy": "bo",
+    "model": "fixed Mat\u00e9rn 5/2 GP v1",
+    "scope": "Historical finite-pool recommendation; not hardware qualified",
+    "source_doi": "10.5281/zenodo.18495402",
+    "recorded_rate_A_s": 1.0248542810253696,
+    "query": 2
+  }
+]

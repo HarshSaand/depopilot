@@ -1,0 +1,9 @@
+{
+  "split": "highest PRR 20% held out; no outcome-based split",
+  "train_recipes": 480,
+  "test_recipes": 121,
+  "cutoff_Hz": 4806.60341773,
+  "mae_A_s": 0.12224477793801056,
+  "rmse_A_s": 0.15606588906482016,
+  "interval_coverage_95": 0.8925619834710744
+}
