@@ -1,5 +1,7 @@
 # DepoPilot
 
+[Read the project report (PDF)](docs/PROJECT_REPORT.pdf) · [Explore the explanation and flow diagram](docs/PROJECT_REPORT.md)
+
 **A Bayesian next-experiment planner with an actual recipe, export and measured-result replay.** Built by Harsh Saand to demonstrate data science for thin-film process development.
 
 ![Actual working application and recorded outcome](artifacts/depopilot-completed.png)
